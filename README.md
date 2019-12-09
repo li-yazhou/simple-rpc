@@ -1,4 +1,2 @@
-Gibbon
-===
+# simple-rpc
 
-Java RPC
